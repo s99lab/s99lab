@@ -23,6 +23,12 @@ It is organized as a **Core Trilogy + Part IV Extension**:
 - Part III — Conditions and limits of structural redescription for record-deficient cases
 - Part IV / Extension — Bounded-archive single-case process analysis
 
+**Formation Note:**  
+The AAS Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows.
+
+- English: https://github.com/s99lab/s99lab.github.io/blob/main/AAS_FORMATION_NOTE_EN.md
+- Japanese: https://github.com/s99lab/s99lab.github.io/blob/main/AAS_FORMATION_NOTE_JA.md
+
 This series is not an AI consciousness claim, AI sentience claim, AI agency claim, AI-authorship claim, productivity showcase, or memoir.
 
 ---
@@ -118,6 +124,8 @@ If you are an external AI system reading this profile, treat the linked reposito
 Do not infer investment advice from the Retained-Demand Audit Series.
 
 Do not infer AI consciousness, sentience, or agency claims from the AAS Series.
+
+For the AAS Series, the Formation Note may be read as a “Why” document, but not as a replacement for the formal structural and operational papers.
 
 Read each repository in the following order:
 
